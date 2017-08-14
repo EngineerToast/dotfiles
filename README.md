@@ -18,3 +18,5 @@ See also:
 
 [flowblok]:http://blog.flowblok.id.au/2013-02/shell-startup-scripts.html
 [stackex]:http://unix.stackexchange.com/questions/46538/are-there-pitfalls-to-putting-home-in-git-instead-of-symlinking-dotfiles
+
+
